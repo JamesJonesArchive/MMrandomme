@@ -1,0 +1,27 @@
+{
+  "name": "mmrandomme",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/mmrandomme",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "jquery": "3.3.1",
+    "bootstrap": "4.1.1",
+    "popper.js": "1.14.3",
+    "classnames": "2.2.5",
+    "prop-types": "15.6.1",
+    "react-icons": "2.2.7",
+    "react-bootstrap": "0.32.1",
+    "react-bootstrap-table-next": "0.1.8",
+    "react-bootstrap-table2-filter": "0.1.6"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

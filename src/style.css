@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+.table {
+  table-layout: auto;
+  width: auto !important;
+}
+.table td.fit,
+.table th.fit {
+    table-layout: auto;
+}
