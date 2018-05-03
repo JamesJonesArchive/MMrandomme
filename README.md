@@ -1,4 +1,5 @@
-# mmrandomme
+# MMrandomme
+A Sample Reactjs Application
 
 [Edit this project on StackBlitz](https://stackblitz.com/edit/mmrandomme)
 
